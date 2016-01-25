@@ -1,0 +1,3 @@
+# comserver
+
+init
